@@ -1,8 +1,8 @@
 {
-  "name": "senacpos",
-  "version": "1.0.0",
+  "name": "nodeagain",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,8 +15,7 @@
   "bugs": {
     "url": "https://github.com/faennor/nodeagain/issues"
   },
-  "homepage": "https://github.com/faennor/nodeagain#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "~4.16.3"
   }
 }
